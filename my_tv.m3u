@@ -13,8 +13,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=9i
 #EXTVLCOPT:http-user-agent(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=18pmegPBp3CMraNqzcemEw&e=2095118006&scheme=https
 #EXTINF:-1  group-title="Основные",СТС
-#EXTVLCOPT:http-user-agent(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://178.134.1.158:8081/CTC/index.m3u8
+http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1  group-title="Основные",СТС Love
 #EXTVLCOPT:http-user-agent(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/32dc45cf878497abe1c9695e228f039b/index.m3u8?s=-LJ1eUYBrxaVDoB_WlvRqw&e=2095118008&scheme=https
