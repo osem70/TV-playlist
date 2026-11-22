@@ -41,9 +41,9 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/Vesti_FM.png?raw=true" group-title="Основные",Вести ФМ
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
-#EXTINF:-1  group-title="Основные",Твоё ТВ
+#EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/Tvoe_TV.png?raw=true" group-title="Основные",Твоё ТВ
 http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1  group-title="Основные",Твоё ТВ Юмор
+#EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/Tvoe_TV_humor.png?raw=true" group-title="Основные",Твоё ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1  group-title="Основные",Rutube TV
 #EXTVLCOPT:http-user-agent (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
