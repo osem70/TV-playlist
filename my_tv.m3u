@@ -37,7 +37,7 @@ https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=t0
 https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=crZEbR2WAc6damcX_igJnA&e=2095118007&scheme=https
 #EXTINF:-1  group-title="Основные",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1  group-title="Основные",ТАСС
+#EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/TASS.png?raw=true" group-title="Основные",ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/Vesti_FM.png?raw=true" group-title="Основные",Вести ФМ
 https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
@@ -45,7 +45,7 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/Tvoe_TV_humor.png?raw=true" group-title="Основные",Твоё ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1  group-title="Основные",Rutube TV
+#EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/Rutube_TV.png?raw=true" group-title="Основные",Rutube TV
 #EXTVLCOPT:http-user-agent (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=X_A7vGeoiOvquTUCd5DkwQ&e=2095118005&scheme=https
 #EXTINF:-1  group-title="Основные",Москва-24
@@ -56,11 +56,11 @@ https://stream.smotrim.ru/hls2/solovievlive/playlist_3.m3u8
 #EXTINF:-1  group-title="Основные",Мир
 #EXTVLCOPT:http-user-agent (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=zSfQGuKxkxtlh760FBE5nQ&e=2095118033&scheme=https
-#EXTINF:-1  group-title="Основные",360°RU
+#EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/360_RU.png?raw=true" group-title="Основные",360°RU
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1  group-title="Основные",RTVI
 https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1  group-title="Основные",Наше время
+#EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/Current_time.png?raw=true" group-title="Основные",Настоящее время
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1  group-title="Основные",Ю
 #EXTVLCOPT:http-user-agent (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -85,7 +85,7 @@ https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=PQ
 https://bl.rutube.ru/livestream/37d722b7752cd193a3f94d71cc9d60f5/index.m3u8?s=e_muIa8uZ67wptYweMpK_Q&e=2095118027&scheme=https
 #EXTINF:-1  group-title="Основные",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1  group-title="Основные",Hit FM
+#EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/HIT_FM.png?raw=true" group-title="Основные",Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1  group-title="Основные",Сити Эдем МедЗдрав
 https://cityeden.catcast.tv/content/47519/index.m3u8
