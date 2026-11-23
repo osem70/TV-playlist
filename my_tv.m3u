@@ -26,6 +26,8 @@ http://185.46.16.239:8000/REN_TV
 http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/TV_Center.png?raw=true" group-title="Основные",TV Centr Int
 https://fs.uplink.kz/tvc/mono.m3u8?token=onlinetv
+#EXTINF:-1  group-title="Основные",ОСН
+https://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1  group-title="Основные",ОТР
 #EXTVLCOPT:http-user-agentWindows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=Keq5SbGCEPv6l2esemDKhw&e=2095118041&scheme=https
@@ -61,6 +63,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 #EXTINF:-1  group-title="Основные",КРИК-ТВ
 #EXTVLCOPT:http-user-agentWindows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=vzNEkg0nj6ylHeq7ATGWBQ&e=2095118034&scheme=https
+#EXTINF:-1  group-title="Основные",BRICS
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1  group-title="Основные",RTVI
 https://amg17233-amg17233c1-wisptv-us-6409.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://github.com/osem70/TV-playlist/blob/main/Current_time.png?raw=true" group-title="Основные",Настоящее время
@@ -112,6 +116,8 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dw-int.png" group-title="Основные",DW Russian
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1  group-title="Основные",Da Vinci
+https://stream8.cinerama.uz/1231/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png" group-title="Основные",Euronews Russian
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1  group-title="Основные",National Geographic
@@ -122,6 +128,10 @@ https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Основные",Discovery Channel
 #EXTVLCOPT:http-user-agentWindows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/6422d62f7e1f87bc3aec45b462cd89ea/index.m3u8?s=78Kduu9_ns-hjQbvx5_Keg&e=2095118012&scheme=https
+#EXTINF:-1  group-title="Основные",Авто Плюс
+https://stream8.cinerama.uz/1036/index.m3u8
+#EXTINF:-1  group-title="Основные",Авто 24
+https://stream8.cinerama.uz/1430/index.m3u8
 #EXTINF:-1  group-title="Все_остальные",Вдох
 #EXTVLCOPT:http-user-agentWindows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/988ec7330fa38c8a1e5980ba7d02dbbe/index.m3u8?s=g7_hG7x9w2F2mHhLszNJaw&e=2095118011&scheme=https
